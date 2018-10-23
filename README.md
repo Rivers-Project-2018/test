@@ -1,5 +1,5 @@
-# TITLE
-This is a test for the MATH30001 project page.
+# Math3001 Rivers Project
+This is the area we will create our blog on river mitigation strategies best suited to each explored river.
 
 ## Intro to GitHub 
 
