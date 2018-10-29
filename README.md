@@ -16,3 +16,8 @@ Overview of key commands from terminal: [here](https://services.github.com/on-de
 
 Try adding text, figures, code, etc, here so we can share everything and start building up a log of your work. 
 
+
+### Rivers Aire, Calder and Don
+
+As a group we have used the first few weeks of term to recreate the quadrant graphs for the above rivers, which has allowed each of us to improve our Python and R skills. We will continue to build on these skills as we investigate our own choice of rivers and floods. 
+
