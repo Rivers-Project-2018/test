@@ -21,3 +21,7 @@ Try adding text, figures, code, etc, here so we can share everything and start b
 
 As a group we have used the first few weeks of term to recreate the quadrant graphs for the above rivers, which has allowed each of us to improve our Python and R skills. We will continue to build on these skills as we investigate our own choice of rivers and floods. 
 
+### How to fold in figures ...
+
+You should fold in some figures here, with a view to communicating what you are doing to each other and presenting to us. HAve a look in the raw code to see how this is done for Abbey's Aire plot: 
+![Abbey's Aire plot](Abbey-Aire_Quadrant_Graph.png)
