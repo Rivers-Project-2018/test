@@ -24,4 +24,6 @@ As a group we have used the first few weeks of term to recreate the quadrant gra
 ### How to fold in figures ...
 
 You should fold in some figures here, with a view to communicating what you are doing to each other and presenting to us. HAve a look in the raw code to see how this is done for Abbey's Aire plot: 
+
 ![Abbey's Aire plot](Abbey-Aire_Quadrant_Graph.png)
+
